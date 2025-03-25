@@ -1,5 +1,5 @@
 # cryptocurrency-exchange-rates
-Shows current cost of a BitCoin in the selected currency.  
-Uses a wheel picker view to select a different currency. 
+App uses Coin API to fetch crytocurrency prices.
+It shows the current cost of a BitCoin in the selected currency and uses a wheel picker view for currency selection.
 
 Adopts swift 6 concurrency. 
